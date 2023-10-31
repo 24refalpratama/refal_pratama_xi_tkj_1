@@ -1,3 +1,10 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
+
+
+
+
 # Input jumlah penjualan bulanan
 penjualan = int(input("Masukkan jumlah penjualan bulanan: "))
 

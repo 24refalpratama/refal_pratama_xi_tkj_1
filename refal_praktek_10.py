@@ -1,3 +1,9 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
+
+
+
 # Input nilai performa karyawan
 performa = int(input("Masukkan nilai performa karyawan (1 hingga 5): "))
 

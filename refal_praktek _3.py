@@ -1,3 +1,10 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
+
+
+
+
 # Nama file yang ingin diperiksa
 nama_file = "data.txt"
 

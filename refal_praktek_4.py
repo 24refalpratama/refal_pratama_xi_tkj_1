@@ -1,4 +1,10 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
 # Input total belanjaan dan status anggota
+
+
+
 total_belanjaan = float(input("Masukkan total belanjaan: "))
 status_anggota = input("Apakah Anda anggota biasa (B) atau anggota premium (P)? ").upper()
 

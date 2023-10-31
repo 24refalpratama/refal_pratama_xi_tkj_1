@@ -1,3 +1,10 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
+
+
+
+
 # Input informasi pembaruan perangkat lunak
 pembaruan_perlukan_restart = input("Apakah pembaruan perangkat lunak memerlukan restart? (ya/tidak): ")
 

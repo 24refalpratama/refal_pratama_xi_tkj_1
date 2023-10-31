@@ -1,10 +1,7 @@
 #Nama: Refal isya' rasya pratama
 #No.absen: 23
 #Kelas : XI-TKJ 1
-#SOAL 1 : Deskripsi Pekerjaan: Di sebuah toko online, Anda bertanggung jawab untuk menghitung diskon
-#berdasarkan jumlah total belanjaan pelanggan.
-#Soal : Buat program Python yang mengambil total belanjaan pelanggan dan memberikan diskon
-#berdasarkan aturan berikut:
+
 
 
 

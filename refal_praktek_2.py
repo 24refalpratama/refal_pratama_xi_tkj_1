@@ -1,3 +1,11 @@
+#Nama: Refal isya' rasya pratama
+#No.absen: 23
+#Kelas : XI-TKJ 1
+
+
+
+
+
 from datetime import datetime
 
 # Input estimasi waktu selesai proyek (dalam format YYYY-MM-DD)
