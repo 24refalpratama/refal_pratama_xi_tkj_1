@@ -1,10 +1,8 @@
-# Input status persiapan proyek
-status_persiapan = input("Status persiapan proyek (Siap/Tunda): ")
+# Input informasi pembaruan perangkat lunak
+pembaruan_perlukan_restart = input("Apakah pembaruan perangkat lunak memerlukan restart? (ya/tidak): ")
 
-# Memeriksa status persiapan proyek
-if status_persiapan.lower() == "siap":
-    print("Proyek diluncurkan.")
-elif status_persiapan.lower() == "tunda":
-    print("Proyek ditunda.")
+# Memeriksa apakah sistem perlu di-restart
+if pembaruan_perlukan_restart.lower() == "ya":
+    print("Sistem perlu di-restart.")
 else:
-    print("Status persiapan tidak valid. Harap masukkan 'Siap' atau 'Tunda'.")
+    print("Sistem tidak perlu di-restart.")
